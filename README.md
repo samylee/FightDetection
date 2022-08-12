@@ -1,4 +1,4 @@
-# FightingDetectionDemo  
+# FightDetectionDemo  
 基于视频分类的GPU实时打架检测  
 
 # 算法效率  
