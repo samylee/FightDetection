@@ -6,6 +6,9 @@
 |:------:|:------:|:------:|:------:|:------:|:------:|
 | 视频/连续帧图像  | 7帧 | 8帧 | 8x3x320x320 | 80ms |89%|
 
+# 获取源代码
+**纯c++代码，请联系作者微信：samylee_csdn**
+
 # 软硬件要求  
 1. windows7/10  
 2. cuda10.1  
@@ -24,4 +27,4 @@
 
 # 参考链接  
 1. [百度飞浆](https://github.com/PaddlePaddle/PaddleVideo)
-2. [samylee中文博客]
+2. [samylee中文博客](https://blog.csdn.net/samylee/article/details/126305702?spm=1001.2014.3001.5502)
